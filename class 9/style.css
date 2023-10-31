@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    background-image:url("Animation.png") ;
+    /* background-image:url("WhatsApp\ Image\ 2023-10-01\ at\ 23.38.08_5210c7ea.jpg"); */
+    background-repeat: repeat-x;
+    /* background-repeat: no-repeat;
+    opacity:1; */
+    background-position: right top;
+}
+/* .third_class{
+    background-color: white;
+    background-image:url("WhatsApp\ Image\ 2023-10-01\ at\ 23.38.08_5210c7ea.jpg");
+    background-position: right top;
+} */
+h1{
+    color:tomato
+}
+
+#para{
+    color: green;
+}
+
+.second_heading{
+    color: blue;
+}
